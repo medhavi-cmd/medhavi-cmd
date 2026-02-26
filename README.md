@@ -11,9 +11,9 @@
   <a href="https://leetcode.com/u/Medhavi_Singh/">
     <img src="https://img.shields.io/badge/LeetCode-Medhavi__Singh-orange?style=for-the-badge&logo=leetcode">
   </a>
-  <a href="mailto:medhavi.singh.24cse@bmu.edu.in">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-  </a>
+ <a href="mailto:medhavisingh290@gmail.com">
+  <img src="https://img.shields.io/badge/Email-medhavisingh290%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 </p>
 
 ---
