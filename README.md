@@ -30,41 +30,6 @@ Git · GitHub · VS Code · Postman · Vite · ImageKit
 
 ---
 
-## Featured Projects
-
-### LabTrack — Laboratory Inventory & Component Management System
-
-A full-stack system designed to digitize laboratory inventory, component 
-requests, issuance, returns and damage reporting.
-
-**Tech:** React.js · Node.js · Express.js · MySQL
-
-[GitHub Repository](YOUR_LABTRACK_REPO_LINK)
-
----
-
-### Full-Stack Image Posting Application
-
-A full-stack application that allows users to upload images with captions 
-and browse a dynamic feed.
-
-**Tech:** React.js · Node.js · Express.js · MongoDB · Tailwind CSS · ImageKit
-
-[GitHub Repository](https://github.com/medhavi-cmd/YOUR-REPO)
-
----
-
-### Developer Portfolio Website
-
-Responsive personal portfolio built with a modular React architecture, 
-Tailwind CSS and interactive animations.
-
-**Tech:** React.js · Vite · Tailwind CSS · Framer Motion
-
-[GitHub Repository](https://github.com/medhavi-cmd/Portfolio-Website)
-
----
-
 ## Experience
 
 ### Frontend Web Developer Intern — Unisphere
